@@ -11,7 +11,7 @@ As a proud Filipino, I strive to incorporate my cultural background into my work
 ## Education
 - Computer Systems Technology Diploma at British Columbia Institute of Technology (Winter 2022 Graduate)
 
-## SKills
+## Skills
 - Proficient Languages: C#, Java, Javascript, Python, and PHP
 - Experienced with: .NET Framework, Unity, MonoGame, Photon Fusion, MongoDB, MySQL, Express, React, Node, Firebase, Git, & Trello
 - Soft skills: Communication, Collaboration, Adaptability, Project management, Interpersonal skills, & Conflict management
