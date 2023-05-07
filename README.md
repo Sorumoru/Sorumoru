@@ -20,7 +20,7 @@ As a proud Filipino, I strive to incorporate my cultural background into my work
 - [UX Was Here](https://www.uxwashere.com/) - A social networking platform for sharing UI/UX experience (JS, HTML, CSS, React, Firebase)
 - [Pugna Ultima](https://github.com/Lukauigi/COMP_4956_PROJECT_PUGNA_ULTIMA) - A 2D multiplayer fighting game (C# .NET Framework, Unity, & Photon Fusion)
 
-Please note that the projects showcased in my README are the ones that I have completed and feel confident in sharing. While I have worked on other projects, some are still in progress or do not meet the standards I hold myself to. As I continue to develop my skills, I look forward to adding more completed projects to my portfolio.
+Please note that the projects showcased in my README are the ones that I have completed and feel confident in sharing. While I have worked on other projects, some are still in progress or do not meet the standards I hold myself to. As I continue to develop my skills, I look forward to adding more completed projects to my arsenal.
 
 ## Contact Me
 - [Email] <- Still working on it
