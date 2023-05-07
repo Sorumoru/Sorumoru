@@ -4,8 +4,6 @@ I'm a recent graduate of the British Columbia Institute of Technology's Computer
 
 I've always been interested in technology, computers, and video games, and I feel incredibly fortunate to have chosen a career that allows me to pursue my passions relating to my interests. I am excited to share with you the projects that I worked on, which demonstrates my skills and commitment to the field.
 
-Thank you for taking the time to get to know me better, and I look forward to sharing more about my journey in technology and programming with you!
-
 <br />
 
 ## Education
