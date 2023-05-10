@@ -17,6 +17,7 @@ As a proud Filipino, I strive to incorporate my cultural background into my work
 - Soft skills: Communication, Collaboration, Adaptability, Project management, Interpersonal skills, & Conflict management
 
 ## Projects
+- [Perso Webo](https://perso-webo.web.app/) - My own personal website! (HTML, CSS, JS) **\[[Github](https://github.com/Sorumoru/Perso-Webo)\]**
 - [UX Was Here](https://www.uxwashere.com/) - A social networking platform for sharing UI/UX experience (JS, HTML, CSS, React, Firebase)
 - [Pugna Ultima](https://github.com/Lukauigi/COMP_4956_PROJECT_PUGNA_ULTIMA) - A 2D multiplayer fighting game (C# .NET Framework, Unity, & Photon Fusion)
 
