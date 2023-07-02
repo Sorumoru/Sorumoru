@@ -24,6 +24,5 @@ As a proud Filipino, I strive to incorporate my cultural background into my work
 Please note that the projects showcased in my README are the ones that I have completed and feel confident in sharing. While I have worked on other projects, some are still in progress or do not meet the standards I hold myself to. As I continue to develop my skills, I look forward to adding more completed projects to my arsenal.
 
 ## Contact Me
-- [Email] <- Still working on it
-- [LinkedIn](https://www.linkedin.com/in/jun-earl-solomon/) <- Also working on it
+- [LinkedIn](https://www.linkedin.com/in/jun-earl-solomon/)
 - [Website](https://perso-webo.web.app/)
