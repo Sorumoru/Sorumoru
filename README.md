@@ -1,4 +1,4 @@
-# Kamusta! I'm Jun 👋
+# Hello! My name's Jun 👋
 
 I'm a recent graduate of the British Columbia Institute of Technology's Computer Systems Technology program, I have gained a solid foundation in web development, game development, mobile application development, and technical programming.
 
