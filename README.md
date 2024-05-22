@@ -7,6 +7,7 @@ I've always been interested in technology, computers, and video games, and I fee
 <br />
 
 ## Education
+- Currently studying Bachelor of Science in Applied Computer Science at British Columbia Institute of Technology
 - Computer Systems Technology Diploma at British Columbia Institute of Technology (Winter 2022 Graduate)
 
 ## Skills
