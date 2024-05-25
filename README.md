@@ -11,7 +11,7 @@ I've always been interested in technology, computers, and video games, and I fee
 - Computer Systems Technology Diploma at British Columbia Institute of Technology (Winter 2022 Graduate)
 
 ## Skills
-- Proficient Languages: C#, Java, Javascript, Python, and PHP
+- Proficient Languages: C#, Java, Javascript, Python, and Swift
 - Experienced with: .NET Framework, Unity, MonoGame, Photon Fusion, MongoDB, MySQL, Express, React, Node, Firebase, Git, & Trello
 - Soft skills: Communication, Collaboration, Adaptability, Project management, Interpersonal skills, & Conflict management
 
